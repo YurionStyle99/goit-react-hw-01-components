@@ -13,6 +13,10 @@ justify-content: center;
 align-items: center;
 }
 
+.title{
+  font-size: 28px;
+  color: blue;
+}
 .item{
 padding: 20px;
 }
